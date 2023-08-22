@@ -1,4 +1,4 @@
-# Welcome to CryptoBRasy
+# Welcome to CryptoBEasy
 
 PROGETTO FINALE del corso Mastercalss Webdesign di Aulab
 
