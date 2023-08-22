@@ -23,7 +23,7 @@ function Welcome() {
       
 
 
-      <div className="mt-[51px] flex flex-col items-center justify-center gap-5 h-80 w-full bg-CardBgGlas bg-cover bg-no-repeat mx-auto rounded-t-[50px] border border-MiddleBlue/[.50] shadow-[0_4px_4px_(0, 0, 0, 0.25)] backdrop-blur-sm">
+      <div className="mt-[51px] flex flex-col items-center justify-center gap-5 h-1/2 w-full bg-CardBgGlas bg-cover bg-no-repeat mx-auto rounded-t-[50px] border border-MiddleBlue/[.50] shadow-[0_4px_4px_(0, 0, 0, 0.25)] backdrop-blur-sm">
 
         <Button className='w-[146px]' to="/login">Log in</Button>
         
