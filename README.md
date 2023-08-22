@@ -12,7 +12,7 @@ Scopo del progetto è quello di realizzare un Bitcoin Wallet come web App per **
 
 ### Step ed indicazioni principali per la realizzazione del progetto
 1. Progettare la UI della Web App realizzandone lo sketch, il wireframe e il mockup verificandone la UX
-2. Pensare a un titolo adatto alla Web App. Il nome deve però contenere la parola "Crypto"
+2. Pensare a un titolo adatto alla Web App. Il nome deve contenere la parola "Crypto"
 3. Realizzare il logo della Web App
 4. Realizzare il progetto in codice
 
