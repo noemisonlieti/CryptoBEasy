@@ -4,7 +4,7 @@ export default function MainHeader({title , subtitle}){
 
     return(
         
-        <header className="flex items-center justify-between">
+        <header className="flex items-center justify-between -mt-4">
 
             <div>
 
