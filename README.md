@@ -31,7 +31,7 @@ Scopo del progetto è quello di realizzare un Bitcoin Wallet come web App per **
 
 Per realizzare il progetto ho utilizzato: 
 * Figma (progettazione e prototipazione | UI/UX)
-* HMTL5
+* HTML5
 * TailwindCSS
 * React.js
 * Modello dell'Atomic Design
